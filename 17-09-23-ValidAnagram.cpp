@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=top-interview-150
+https://leetcode.com/problems/valid-anagram/
 Time O(n), n == s.size();
 Space O(n), n == s.size();
 */
