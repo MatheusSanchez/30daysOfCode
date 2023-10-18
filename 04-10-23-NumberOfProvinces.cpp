@@ -1,5 +1,5 @@
 /*
-    https://leetcode.com/problems/number-of-provinces/submissions/1073841017/
+    https://leetcode.com/problems/number-of-provinces
 
     BFS:
     Time: O(V^2)
