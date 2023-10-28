@@ -1,7 +1,7 @@
 /*
     Time O(m*n) m ==  cpdomains.size() | n == fullDomain.size() -> size biggestDomain
     Space = O(k) == cpdomains.size()
-
+    https://leetcode.com/problems/subdomain-visit-count/
 */
 
 class Solution {
